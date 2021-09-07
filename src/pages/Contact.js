@@ -4,6 +4,7 @@ const Contact = () => {
   return (
     <div className="contact">
       <form>
+        <h1>Contact Me </h1>
         <label>name</label>
         <input type="text" placeholder=" type your Name"/>
         <label>email</label>
